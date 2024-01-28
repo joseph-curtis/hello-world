@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.0] - 2024-01-28
 ### Added
+- `CHANGELOG.md` file with Semantic Versioning template by keepachangelog.com (commit 28697ca).
 - `.gitignore` file with Java template as an example (commit 356490f).
 - `CITATION.cff` file (commit 73c9987).
 - `LICENSE` with MPL-2.0 license (commit cbe9f2b).
