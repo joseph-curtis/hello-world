@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: "hello-world"
+message: >-
+  "If you use this software, please cite it using the
+  metadata from this file."
+type: software
+authors:
+- family-names: "Curtis"
+  given-names: "Joseph"
+- family-names: "Curtis"
+  given-names: "Joseph"
+  email: "jcur175@wgu.edu"
+  affiliation: "Western Governors University"
+  orcid: "https://orcid.org/0000-0002-5445-9015"
+repository-code: "https://github.com/joseph-curtis/hello-world"
+abstract: >-
+  "Research paper abstract or brief 
+   description of project"
+license: "MPL-2.0"
+## doi: 10.5281/zenodo.1234
+version: 1.0.0
+date-released: '2024-01-28'
